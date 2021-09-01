@@ -23,7 +23,7 @@ class Hidden extends StatelessWidget {
                   height: 30,
                 ),
                 Text(
-                  "Muito obrigado a todos meus colegas te turma. Vocês sempre sofram uma inspiração para mim, todo esforço, empenho e dedicação que cada um deu conforme suas forças, e ainda conseguindo um tempo para ajudar os colegas e apoiá-los. Vocês fazem a difereça!",
+                  "Muito obrigado a todos meus colegas de turma. Vocês sempre sofram uma inspiração para mim, todo esforço, empenho e dedicação que cada um deu conforme suas forças, e ainda conseguindo um tempo para ajudar os colegas e apoiá-los. Vocês fazem a difereça!",
                   style: EstiloTexto.hiddenTexto,
                   textAlign: TextAlign.justify,
                 ),
