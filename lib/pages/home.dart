@@ -927,7 +927,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                                                           AlignmentDirectional
                                                               .centerStart,
                                                       child: Text(
-                                                        "Tipo raro, só existe 1 no mundo. Se adapta rapidamente ao ambiente.",
+                                                        "Tipo muito raro, só existe um no mundo. Se adapta rapidamente ao ambiente.",
                                                         style:
                                                             EstiloTexto.texto,
                                                       ),
@@ -940,9 +940,8 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                                                     left: 20),
                                                 child: Container(
                                                   width: 160,
-                                                  height: 160,
                                                   child: Image.asset(
-                                                      "assets/images/olho01.jpg"),
+                                                      "assets/images/foto.jpeg"),
                                                 ),
                                               ),
                                               // Image.asset(
