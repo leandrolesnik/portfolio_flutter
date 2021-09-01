@@ -45,7 +45,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
     super.dispose();
   }
 
-  int clique = 0;
+  // int clique = 0;
 
   @override
   Widget build(BuildContext context) {
@@ -944,9 +944,6 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                                                       "assets/images/foto.jpeg"),
                                                 ),
                                               ),
-                                              // Image.asset(
-                                              //     "asstes/html/cine_icon.jpg"),
-                                              // ),
                                             ],
                                           ),
                                           const SizedBox(
